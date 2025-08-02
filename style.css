@@ -1,0 +1,31 @@
+body {
+        background: linear-gradient(to right, #f8cdda, #1d2b64);
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 50px;
+        color: white;
+    }
+
+    .box {
+    
+      border: 1px solid #ccc;
+      padding: 20px;
+      max-width: 400px;
+      margin: auto;
+      border-radius: 5px;
+    }
+
+    #quote {
+      font-style: italic;
+      margin-bottom: 10px;
+    }
+
+    #author {
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 10px 15px;
+      cursor: pointer;
+    }
